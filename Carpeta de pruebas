@@ -1,1 +1,6 @@
+Entrada:
+N = 1000
 
+Salida esperada aproximada:
+Primos encontrados: 168
+Suma de primos: 76127
