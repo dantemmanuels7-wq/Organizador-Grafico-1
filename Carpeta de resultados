@@ -1,1 +1,15 @@
+Lenguaje: C
+N: 1000
 
+Primos encontrados: 168
+Suma de primos: 76127
+Primos pares: 1
+Primos impares: 167
+
+
+Lenguaje: Python
+
+Frecuencias: {3:3, -1:2, 0:2, 5:4, -7:1, 2:1}
+Modo: 5
+Cuenta del modo: 4
+Suma de dígitos del modo: 5
